@@ -1,0 +1,17 @@
+C:\Users\nicol\source\repos\rem\rem\rem\bin\Debug\netstandard2.0\rem.deps.json
+C:\Users\nicol\source\repos\rem\rem\rem\bin\Debug\netstandard2.0\rem.dll
+C:\Users\nicol\source\repos\rem\rem\rem\bin\Debug\netstandard2.0\ref\rem.dll
+C:\Users\nicol\source\repos\rem\rem\rem\bin\Debug\netstandard2.0\rem.pdb
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\rem.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\rem.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\rem.AssemblyInfo.cs
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\rem.dll
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\ref\rem.dll
+C:\Users\nicol\source\repos\rem\rem\rem\obj\Debug\netstandard2.0\rem.pdb
