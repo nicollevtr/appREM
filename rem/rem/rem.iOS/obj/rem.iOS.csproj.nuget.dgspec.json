@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj": {}
+    "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj",
         "projectName": "rem.iOS",
-        "projectPath": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj",
-        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem.iOS\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem.iOS\\rem.iOS.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\rem.csproj": {
-                "projectPath": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\rem.csproj"
+              "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\rem.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\rem.csproj"
               }
             }
           }
@@ -65,20 +65,20 @@
         }
       }
     },
-    "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\rem.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\rem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\rem.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\rem.csproj",
         "projectName": "rem",
-        "projectPath": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\rem.csproj",
-        "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nicol\\Desktop\\IME 2020.2\\REM\\appREM\\rem\\rem\\rem\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\rem.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\appREM\\rem\\rem\\rem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -128,7 +128,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
