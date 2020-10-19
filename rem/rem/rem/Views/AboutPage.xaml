@@ -6,7 +6,7 @@
              mc:Ignorable="d"
              x:Class="rem.Views.AboutPage"
              xmlns:vm="clr-namespace:rem.ViewModels"
-             Title="{Binding Title}">
+             Title="Contato">
     
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
@@ -38,13 +38,11 @@
                 </ContentView>
             </StackLayout>
         </StackLayout>
-        <Label FontSize="22" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2">
+        <Label FontSize="22" Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="2" VerticalTextAlignment="Center">
             <Label.FormattedText>
                 <FormattedString>
                     <FormattedString.Spans>
-                        <Span Text="AppName" FontAttributes="Bold" FontSize="22" />
-                        <Span Text=" " />
-                        <Span Text="1.0" ForegroundColor="{StaticResource LightTextColor}" />
+                        <Span Text="Selecione a conversa que deseja" FontAttributes="Bold" FontSize="22" />
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
@@ -55,8 +53,8 @@
             TextColor="White" 
             CornerRadius="60"   
             FontSize="40"/>
-
-
+        
+        
     </Grid>
 
 </ContentPage>
